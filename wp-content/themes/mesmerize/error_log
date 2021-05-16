@@ -1,0 +1,5 @@
+[18-Mar-2021 12:17:54 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Mar-2021 12:17:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mesmerize_get_header() in /home4/kritesh/public_html/price/wp-content/themes/mesmerize/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home4/kritesh/public_html/price/wp-content/themes/mesmerize/index.php on line 1

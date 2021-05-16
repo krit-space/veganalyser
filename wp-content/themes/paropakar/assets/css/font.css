@@ -1,0 +1,20 @@
+
+@font-face{
+	font-family: "opensans";
+	src: url('../fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: "opensans-bold";
+	src: url('../fonts/OpenSans-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: "MontseRratbold";
+	src: url('../fonts/Montserrat-Bold.otf') format('opentype');
+}
+
+@font-face{
+	font-family: "MontseRrat";
+	src: url('../fonts/Montserrat-Regular.otf') format('opentype');
+}

@@ -1,0 +1,719 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP News and Scrolling Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-23 10:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5"
+
+#: sp-news-and-widget.php:151
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: sp-news-and-widget.php:152
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/functions.php:92
+msgid "« Previous"
+msgstr ""
+
+#: includes/functions.php:93
+msgid "Next »"
+msgstr ""
+
+#: includes/sp-news-post-type.php:16
+msgid "Add New News Item"
+msgstr ""
+
+#: includes/sp-news-post-type.php:17
+msgid "Edit News Item"
+msgstr ""
+
+#: includes/sp-news-post-type.php:18
+msgid "New News Item"
+msgstr ""
+
+#: includes/sp-news-post-type.php:19
+msgid "View News Item"
+msgstr ""
+
+#: includes/sp-news-post-type.php:20
+msgid "Search  News Items"
+msgstr ""
+
+#: includes/sp-news-post-type.php:21
+msgid "No News Items found"
+msgstr ""
+
+#: includes/sp-news-post-type.php:22
+msgid "No News Items found in Trash"
+msgstr ""
+
+#: includes/sp-news-post-type.php:24
+msgctxt "admin menu"
+msgid "News"
+msgstr ""
+
+#: includes/sp-news-post-type.php:58
+msgid "Search Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:59
+msgid "All Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:60
+msgid "Parent Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:61
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/sp-news-post-type.php:62
+msgid "Edit Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:63
+msgid "Update Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:64
+msgid "Add New Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:65
+msgid "New Category Name"
+msgstr ""
+
+#: includes/sp-news-post-type.php:66
+#: includes/widgets/class-wpnw-latest-news-widget.php:91
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:97
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:85
+msgid "Category"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:41
+msgid "How it works - WP News and Scrolling Widgets"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:41
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:44
+msgid "Upgrade to PRO - WP News and Scrolling Widgets"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:44
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:36
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:45
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:49
+msgid ""
+"Step-1: This plugin create a News menu tab in WordPress menu with custom "
+"post type."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:50
+msgid "Step-2: Go to \"News > Add news item tab\"."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:51
+msgid ""
+"Step-3: Add news title, description, category, and image as featured image."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:52
+msgid "Step-4: Repeat this process and add multiple news item."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:53
+msgid ""
+"Step-4: To display news category wise you can use category shortcode under "
+"\"News > News category\""
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:60
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:64
+msgid "Step-1. Create a page like Our News OR Latest News."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:65
+msgid ""
+"<b>Please make sure that Permalink link should not be \"/news\" Otherwise "
+"all your news will go to archive page. You can give it other name like "
+"\"/ournews, /latestnews etc\"</b>"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:66
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:73
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:76
+msgid "News in List View"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:77
+msgid "Display News in grid 1"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:78
+msgid "Display News in grid 2"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:79
+msgid "Display News in grid 3"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:90
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:98
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:102
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:103
+msgid "Step-2. Search \"news\" keyword in the Gutenberg block list."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:104
+msgid ""
+"Step-3. Add any block of news and you will find its relative options on the "
+"right end side."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:116
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:124
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:125
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:126
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:137
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:141
+msgid "Enjoyed this plugin? You can help by rate this plugin "
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:141
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:153
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:181
+msgid ""
+"Gain access to <strong>WP News and Scrolling Widgets</strong> included in "
+"<br /><strong>Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:182
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:183
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/shortcode/sp-news-shortcode.php:177 assets/js/blocks.build.js:1
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcode/sp-news-shortcode.php:194
+msgid "Next"
+msgstr ""
+
+#: includes/shortcode/sp-news-shortcode.php:195
+msgid "Previous"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:27
+msgid "Displayed Latest News Items from the News  in a sidebar"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:30
+msgid "Latest News Widget"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:34
+msgid "Latest News"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:73
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:79
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:67
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:77
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:83
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:71
+msgid "Number of Items"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:82
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:88
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:76
+msgid "Display Date"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:87
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:93
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:81
+msgid "Display Category"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:95
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:101
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:89
+msgid "All Categories"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:28
+msgid "Scroll Latest News Items from the News  in a sidebar"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:31
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:35
+msgid "Latest News Scrolling Widget"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:113
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:118
+msgid "Pause"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:123
+msgid "Speed"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:22
+msgid "Displayed Latest News Items in a sidebar with thumbnails"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:25
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:29
+msgid "Latest News with Thumb"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "WP News and Scrolling Widgets - Features"
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:137
+msgid "WPOS Blocks"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "News Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display news post in a grid view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "sp news"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "True"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "False"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Design 1"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Grid 1"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Grid 2"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Grid 3"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Grid 4"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "List"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Numeric"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Previous - Next"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Same Window"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Date"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Modified Date"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Title"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Slug"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post ID"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Random"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Descending"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Ascending"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "General Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Design"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Choose design. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Premium version "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "to get this option."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "News Heading"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter news heading. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Number of Columns"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Author"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display post author. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Date"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Category Name"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Content"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Full Content"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Content Words Limit"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter content word limit."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Content Tail"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display dots after the post content as continue reading. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display read more. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Read More Text"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter read more text. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Link Behavior"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Choose link behaviour. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Image Height"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Control height of the featured image. You can enter any numeric number. e.g "
+"500. Leave empty for default height. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Media Size"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Choose WordPress registered image size. e.g thumbnail, medium, large, full. "
+"Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Image Fit"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Fill the news image in a whole container. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Query Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Limit"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number of news post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Order By"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Order"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Specific Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"category listing page."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter category id to display categories wise."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Disply Child Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"If you are using parent category then whether to display child category or "
+"not. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Exclude post category. Works only if `Category` field is empty. You can pass "
+"multiple ids with comma seperated. You can find id at relevant category "
+"listing page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Specific Posts"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter id of the post which you want to display. You can pass multiple ids "
+"with comma seperated. You can find id at relevant post listing page. "
+"Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Post"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter id of the post which you do not want to display. You can pass multiple "
+"ids with comma seperated. You can find id at relevant post listing page. "
+"Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Include Author"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter author id to display posts of particular author. You can pass multiple "
+"ids with comma seperated. You can find id at users listing page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Author"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter author id to hide post of particular author. Works only if `Include "
+"Author` field is empty. You can pass multiple ids with comma seperated. You "
+"can find id at relevant users listing page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pagination"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display pagination. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pagination Type"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Query Offset"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Exclude number of posts from starting. e.g if you pass 5 then it will skip "
+"first five post. Note: This will not work with limit=-1. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "WP News and Scrolling Widgets - Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Do you want to check demo of this plugin."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Click here"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Do you also want to check premium version demo of this plugin."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP News and Scrolling Widgets"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple News and three widgets(static, scrolling and with thumbs) plugin. "
+"Also work with Gutenberg shortcode block."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
